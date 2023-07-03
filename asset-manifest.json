@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.9d2e069c.js",
-    "index.html": "/index.html",
-    "main.9d2e069c.js.map": "/static/js/main.9d2e069c.js.map"
+    "main.js": "/react-random/static/js/main.9d2e069c.js",
+    "index.html": "/react-random/index.html",
+    "main.9d2e069c.js.map": "/react-random/static/js/main.9d2e069c.js.map"
   },
   "entrypoints": [
     "static/js/main.9d2e069c.js"
