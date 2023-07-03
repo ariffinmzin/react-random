@@ -33,6 +33,7 @@ const App = () => {
 
     return (
         <div>
+            <h1>Group's Turn</h1>
             {randomGroups.map(group => <div key={group}>{group}</div>)}
         </div>
     );
